@@ -1,0 +1,2 @@
+# terimas.js
+terimas
